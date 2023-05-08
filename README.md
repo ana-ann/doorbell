@@ -1,4 +1,7 @@
 # Video Doorbell
+
+https://user-images.githubusercontent.com/98317751/236881763-684f26de-3e13-400c-89e8-00caf08bec11.mp4
+
 This project is based on a previous [Pi Stream Camera Project](https://github.com/EbenKouao/Pi-Smart-Doorbell) from [EbenKouao](https://github.com/EbenKouao).
 It is modified to send Push Notifications and uses the [gpiozero](https://gpiozero.readthedocs.io/en/stable/) library.
 
